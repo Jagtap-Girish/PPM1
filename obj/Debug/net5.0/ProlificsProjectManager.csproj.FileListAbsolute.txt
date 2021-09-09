@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\ProlificsProjectManager\bin\Debug\net5.0\ProlificsProjectManager.exe
+C:\Users\hp\source\repos\ProlificsProjectManager\bin\Debug\net5.0\ProlificsProjectManager.deps.json
+C:\Users\hp\source\repos\ProlificsProjectManager\bin\Debug\net5.0\ProlificsProjectManager.runtimeconfig.json
+C:\Users\hp\source\repos\ProlificsProjectManager\bin\Debug\net5.0\ProlificsProjectManager.runtimeconfig.dev.json
+C:\Users\hp\source\repos\ProlificsProjectManager\bin\Debug\net5.0\ProlificsProjectManager.dll
+C:\Users\hp\source\repos\ProlificsProjectManager\bin\Debug\net5.0\ref\ProlificsProjectManager.dll
+C:\Users\hp\source\repos\ProlificsProjectManager\bin\Debug\net5.0\ProlificsProjectManager.pdb
+C:\Users\hp\source\repos\ProlificsProjectManager\obj\Debug\net5.0\ProlificsProjectManager.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ProlificsProjectManager\obj\Debug\net5.0\ProlificsProjectManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ProlificsProjectManager\obj\Debug\net5.0\ProlificsProjectManager.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ProlificsProjectManager\obj\Debug\net5.0\ProlificsProjectManager.AssemblyInfo.cs
+C:\Users\hp\source\repos\ProlificsProjectManager\obj\Debug\net5.0\ProlificsProjectManager.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ProlificsProjectManager\obj\Debug\net5.0\ProlificsProjectManager.dll
+C:\Users\hp\source\repos\ProlificsProjectManager\obj\Debug\net5.0\ref\ProlificsProjectManager.dll
+C:\Users\hp\source\repos\ProlificsProjectManager\obj\Debug\net5.0\ProlificsProjectManager.pdb
+C:\Users\hp\source\repos\ProlificsProjectManager\obj\Debug\net5.0\ProlificsProjectManager.genruntimeconfig.cache
