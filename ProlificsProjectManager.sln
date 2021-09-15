@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProlificsProjectManager", "ProlificsProjectManager.csproj", "{6E8D508F-4182-454A-8740-FE16514B27A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProlificsProjectManager", "ProlificsProjectManager.csproj", "{6E8D508F-4182-454A-8740-FE16514B27A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPM.Model", "..\PPM.Model\PPM.Model.csproj", "{C3ABABDB-9B20-4330-91AC-64D40C4DB944}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPM.UI.CLI", "..\PPM.UI.CLI\PPM.UI.CLI.csproj", "{C965A5A9-36B4-45E9-A108-56EC83BF2981}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPM.Domain", "..\PPM.Domain\PPM.Domain.csproj", "{E129FC2B-72C6-4E82-A1CB-E098A6517389}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{6E8D508F-4182-454A-8740-FE16514B27A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E8D508F-4182-454A-8740-FE16514B27A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E8D508F-4182-454A-8740-FE16514B27A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3ABABDB-9B20-4330-91AC-64D40C4DB944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3ABABDB-9B20-4330-91AC-64D40C4DB944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3ABABDB-9B20-4330-91AC-64D40C4DB944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3ABABDB-9B20-4330-91AC-64D40C4DB944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C965A5A9-36B4-45E9-A108-56EC83BF2981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C965A5A9-36B4-45E9-A108-56EC83BF2981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C965A5A9-36B4-45E9-A108-56EC83BF2981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C965A5A9-36B4-45E9-A108-56EC83BF2981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E129FC2B-72C6-4E82-A1CB-E098A6517389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E129FC2B-72C6-4E82-A1CB-E098A6517389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E129FC2B-72C6-4E82-A1CB-E098A6517389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E129FC2B-72C6-4E82-A1CB-E098A6517389}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
