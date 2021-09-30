@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PPM.UI.CLI", "..\PPM.UI.CLI
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PPM.Domain", "..\PPM.Domain\PPM.Domain.csproj", "{E129FC2B-72C6-4E82-A1CB-E098A6517389}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPM.TestCase", "..\PPM.TestCase\PPM.TestCase.csproj", "{805F8AE1-B41D-4240-BABD-D1AFF3AFDFB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PPM.TestCase", "..\PPM.TestCase\PPM.TestCase.csproj", "{805F8AE1-B41D-4240-BABD-D1AFF3AFDFB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPM.Module", "..\PPM.Module\PPM.Module.csproj", "{6FBBA7D6-B0C9-4CC1-978A-59BD2BFE943E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{805F8AE1-B41D-4240-BABD-D1AFF3AFDFB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{805F8AE1-B41D-4240-BABD-D1AFF3AFDFB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{805F8AE1-B41D-4240-BABD-D1AFF3AFDFB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FBBA7D6-B0C9-4CC1-978A-59BD2BFE943E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBBA7D6-B0C9-4CC1-978A-59BD2BFE943E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBBA7D6-B0C9-4CC1-978A-59BD2BFE943E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBBA7D6-B0C9-4CC1-978A-59BD2BFE943E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

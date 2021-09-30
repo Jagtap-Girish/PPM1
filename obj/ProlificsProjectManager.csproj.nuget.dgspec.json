@@ -118,6 +118,68 @@
         }
       }
     },
+    "C:\\Users\\hp\\Source\\Repos\\PPM.Module\\PPM.Module.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\PPM.Module\\PPM.Module.csproj",
+        "projectName": "PPM.Module",
+        "projectPath": "C:\\Users\\hp\\Source\\Repos\\PPM.Module\\PPM.Module.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Source\\Repos\\PPM.Module\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\Source\\Repos\\PPM.Domain\\PPM.Domain.csproj": {
+                "projectPath": "C:\\Users\\hp\\Source\\Repos\\PPM.Domain\\PPM.Domain.csproj"
+              },
+              "C:\\Users\\hp\\Source\\Repos\\PPM.Model\\PPM.Model.csproj": {
+                "projectPath": "C:\\Users\\hp\\Source\\Repos\\PPM.Model\\PPM.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\hp\\Source\\Repos\\PPM.UI.CLI\\PPM.UI.CLI.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -148,6 +210,9 @@
               },
               "C:\\Users\\hp\\Source\\Repos\\PPM.Model\\PPM.Model.csproj": {
                 "projectPath": "C:\\Users\\hp\\Source\\Repos\\PPM.Model\\PPM.Model.csproj"
+              },
+              "C:\\Users\\hp\\Source\\Repos\\PPM.Module\\PPM.Module.csproj": {
+                "projectPath": "C:\\Users\\hp\\Source\\Repos\\PPM.Module\\PPM.Module.csproj"
               }
             }
           }
