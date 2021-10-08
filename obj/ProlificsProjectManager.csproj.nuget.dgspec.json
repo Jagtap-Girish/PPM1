@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Source\\Repos\\PPM1\\ProlificsProjectManager.csproj": {}
+    "C:\\Users\\hp\\Source\\Repos\\ProlificsManagement\\ProlificsProjectManager.csproj": {}
   },
   "projects": {
     "C:\\Users\\hp\\Source\\Repos\\PPM.Domain\\PPM.Domain.csproj": {
@@ -99,6 +99,16 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -245,14 +255,14 @@
         }
       }
     },
-    "C:\\Users\\hp\\Source\\Repos\\PPM1\\ProlificsProjectManager.csproj": {
+    "C:\\Users\\hp\\Source\\Repos\\ProlificsManagement\\ProlificsProjectManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\PPM1\\ProlificsProjectManager.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\ProlificsManagement\\ProlificsProjectManager.csproj",
         "projectName": "ProlificsProjectManager",
-        "projectPath": "C:\\Users\\hp\\Source\\Repos\\PPM1\\ProlificsProjectManager.csproj",
+        "projectPath": "C:\\Users\\hp\\Source\\Repos\\ProlificsManagement\\ProlificsProjectManager.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Source\\Repos\\PPM1\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Source\\Repos\\ProlificsManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

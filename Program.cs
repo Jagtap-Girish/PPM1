@@ -16,6 +16,7 @@ namespace ProlificsProjectManager
             }
             CommonInterface commonInterface = new CommonInterface();
             commonInterface.StartProgram();
+           
         }
     }
 }
